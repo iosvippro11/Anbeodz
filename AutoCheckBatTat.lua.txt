@@ -3,7 +3,7 @@ local VirtualInputManager = game:GetService("VirtualInputManager")
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/VanThanhLuxucu/refs/heads/main/main.txt"))()
  
 local Hub = Material.Load({
-	Title = "Văn Thành IOS Đẹp Trai Nhất Việt Nam",
+	Title = "An Béo Đẹp Trai Việt Nam",
 	Style = 3,
 	SizeX = 300,
 	SizeY = 300,
